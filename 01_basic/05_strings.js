@@ -84,7 +84,8 @@ console.log(`The word "${word}" ${set1.includes(word) ? 'is' : "is not present"}
 console.log(`The word "${word1}" ${set1.includes(word1) ? 'is' : "is not present"} in the sentance`) //The word "soniya" is not present in the sentance
 
 // ***** fontSize()***********
+//html code for fontsize to be dynamically set by javascript
+// ***** indexOf()***********
 
-// ***** fontSize()***********
 // ***** fontSize()***********
 
